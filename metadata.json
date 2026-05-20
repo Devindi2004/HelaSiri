@@ -1,0 +1,8 @@
+{
+  "name": "Helasiri",
+  "description": "Premium viral toolkit for Sri Lankans including Cash Counter, Singlish Transliteration, Electricity Estimator, AI Caption Generator, NIC Analyzer, Currency Rate Tracker, fuel/trip cost, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
